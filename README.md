@@ -1,5 +1,5 @@
 # oldbirds
-This is use python REST API Framwork 
+This is use python REST API Framwork    
 The Android part is in https://github.com/chinapumpkin/MobileserviceTool    
 
 ## how to use 
